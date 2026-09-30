@@ -1,0 +1,5 @@
+auto car 
+talo house 
+koira dog
+kissa cat
+omena apple
